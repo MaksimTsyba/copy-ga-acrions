@@ -3,8 +3,7 @@ name: Create releases branches
 on:
   push:
     branches:
-      - main
-      - release/*
+     - master
 
 jobs:
 
